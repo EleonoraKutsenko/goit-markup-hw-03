@@ -261,8 +261,22 @@ footer {
     background-color: var(--dark-bgcolor);
 }
 
+.footer-logo {
+    display: inline-block;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
 .logo-decor-footer {
     color: var(--white-color);
+}
+
+.footer-list {
+    padding-bottom: 60px;
+}
+
+.footer-list-item {
+    margin-bottom: 9px;
 }
 
 .footer-address {
@@ -271,7 +285,7 @@ footer {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    color: var(--white-color);
+    color: var(--white-color);    
 }
 
 .footer-contact {

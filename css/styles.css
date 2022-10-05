@@ -254,8 +254,13 @@ header {
     padding: 30px 0;
 }
 .team-title {
+    font-size: 16px;
     font-weight: 500;
     margin-bottom: 10px;
+}
+
+.team-desc {
+    color: var(--gray-text-color);
 }
 
 /* ===footer=== */
